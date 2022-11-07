@@ -2,7 +2,7 @@
 - 👀 I’m interested in Astronomy & Comp. Sci.
 - 🌱 I’m currently learning Matlab
 - 💞️ I’m looking to collaborate on Python Projects
-- 📫 reach me on Discord @ `the_programmer_2215#7719`
+- 📫 reach me on Discord @ `markmadhukar03@gmail.com`
 
 <!---
 programmer2215/programmer2215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
