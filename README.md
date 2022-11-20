@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @programmer2215
-- 👀 I’m interested in Astronomy & Comp. Sci.
+- 👀 I’m interested in Programming & Astronomy
 - 🌱 I’m currently learning Matlab
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 reach me @ `markmadhukar03@gmail.com`
