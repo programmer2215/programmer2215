@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @programmer2215
+- 👋 Hi, I’m Mark Madhukar
 - 👀 I’m interested in Programming & Astronomy
 - 🌱 I’m currently learning Matlab
 - 💞️ I’m looking to collaborate on Python Projects
