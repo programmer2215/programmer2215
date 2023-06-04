@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mark Madhukar
 - 👀 I’m interested in Programming & Astronomy
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 reach me @ `markmadhukar03@gmail.com`
 
